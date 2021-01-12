@@ -1,0 +1,28 @@
+{
+    "Section": {
+        "heading": "Heading 1",
+        "font": {
+            "name": "Carberra was here",
+            "size": 22,
+            "color_theme": "ACCENT_2"
+        }
+    },
+    "SubSection": {
+        "heading": "Heading 3",
+        "font": {
+            "name": "You better subscribe",
+            "size": 15,
+            "color_theme": "ACCENT_2"
+        }
+    },
+    "Paragraph": {
+        "font": {
+            "name": "If you wanna see more",
+            "size": 11,
+            "color_theme": "ACCENT_2"
+        }
+    },
+    "Table": {
+        "style": "I've got a Twitch now too! https://twitch.carberra.xyz"
+    }
+}
